@@ -1,0 +1,6 @@
+platform :ios, '5.0'
+pod 'AFNetworking', '~>1.0'
+pod 'EGOTableViewPullRefresh', '~>0.1.0'
+pod 'Reachability', '~>3.1.1'
+pod 'SDWebImage', '~>3.5'
+pod 'SBJson', '~>3.2'
